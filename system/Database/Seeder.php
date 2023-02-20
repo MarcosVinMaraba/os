@@ -75,8 +75,9 @@ class Seeder
     /**
      * Seeder constructor.
      */
-    public function __construct(Database $config, ?BaseConnection $db = null)
+    public function __construct()
     {
+        $config=new Database();
         $this->seedPath = $config->filesPath ?? APPPATH . 'Database/';
 
         if (empty($this->seedPath)) {

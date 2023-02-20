@@ -1,0 +1,24 @@
+CRITICAL - 2023-02-19 23:05:12 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 18 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(18): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-19 23:56:41 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 18 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(18): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-19 23:56:42 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 18 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(18): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')

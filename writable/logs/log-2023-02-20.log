@@ -1,0 +1,261 @@
+CRITICAL - 2023-02-20 00:14:08 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 18 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(18): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:14:11 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 18 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(18): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:14:12 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 18 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(18): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:15:01 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+in APPPATH\Controllers\Usuarios.php on line 18.
+ 1 SYSTEMPATH\Router\Router.php(506): CodeIgniter\Router\AutoRouter->getRoute('Usuarios')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Usuarios')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:25:35 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 18 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(18): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:36:21 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 18 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(18): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:36:22 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 18 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(18): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:36:25 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 18 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(18): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:38:03 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 19 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(19): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:43:37 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 19 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(19): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:43:38 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 19 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(19): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:43:39 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 19 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(19): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:45:55 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 19 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(19): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:45:56 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 19 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(19): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:47:23 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 19 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(19): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:47:24 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 19 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(19): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:47:25 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 19 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(19): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:47:26 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 19 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(19): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:50:22 --> Too few arguments to function CodeIgniter\Database\Seeder::__construct(), 0 passed in E:\Users\Lenovo\Documents\ordem\app\Controllers\Usuarios.php on line 19 and at least 1 expected
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 APPPATH\Controllers\Usuarios.php(19): CodeIgniter\Database\Seeder->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:50:57 --> Class 'Faker\Factory' not found
+in APPPATH\Database\Seeds\UsuariosFakerSeeder.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(20): App\Database\Seeds\UsuariosFakerSeeder->run()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:52:19 --> Class 'Faker\Factory' not found
+in APPPATH\Database\Seeds\UsuariosFakerSeeder.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(20): App\Database\Seeds\UsuariosFakerSeeder->run()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:53:19 --> Class 'Faker\Factory' not found
+in APPPATH\Database\Seeds\UsuariosFakerSeeder.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(20): App\Database\Seeds\UsuariosFakerSeeder->run()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:53:20 --> Class 'Faker\Factory' not found
+in APPPATH\Database\Seeds\UsuariosFakerSeeder.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(20): App\Database\Seeds\UsuariosFakerSeeder->run()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:53:21 --> Class 'Faker\Factory' not found
+in APPPATH\Database\Seeds\UsuariosFakerSeeder.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(20): App\Database\Seeds\UsuariosFakerSeeder->run()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:54:55 --> Class 'Faker\Factory' not found
+in APPPATH\Database\Seeds\UsuariosFakerSeeder.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(20): App\Database\Seeds\UsuariosFakerSeeder->run()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:54:57 --> Class 'Faker\Factory' not found
+in APPPATH\Database\Seeds\UsuariosFakerSeeder.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(20): App\Database\Seeds\UsuariosFakerSeeder->run()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 00:54:58 --> Class 'Faker\Factory' not found
+in APPPATH\Database\Seeds\UsuariosFakerSeeder.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(20): App\Database\Seeds\UsuariosFakerSeeder->run()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 01:06:48 --> Argument 1 passed to CodeIgniter\Database\Seeder::__construct() must be an instance of CodeIgniter\Database\BaseConnection or null, instance of Config\Database given, called in E:\Users\Lenovo\Documents\ordem\system\Commands\Database\Seed.php on line 69
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 SYSTEMPATH\Commands\Database\Seed.php(69): CodeIgniter\Database\Seeder->__construct(Object(Config\Database))
+ 2 SYSTEMPATH\CLI\Commands.php(65): CodeIgniter\Commands\Database\Seed->run([...])
+ 3 SYSTEMPATH\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('db:seed', [...])
+ 4 ROOTPATH\spark(97): CodeIgniter\CLI\Console->run()
+CRITICAL - 2023-02-20 01:10:37 --> Argument 1 passed to CodeIgniter\Database\Seeder::__construct() must be an instance of CodeIgniter\Database\BaseConnection or null, instance of Config\Database given, called in E:\Users\Lenovo\Documents\ordem\system\Commands\Database\Seed.php on line 69
+in SYSTEMPATH\Database\Seeder.php on line 78.
+ 1 SYSTEMPATH\Commands\Database\Seed.php(69): CodeIgniter\Database\Seeder->__construct(Object(Config\Database))
+ 2 SYSTEMPATH\CLI\Commands.php(65): CodeIgniter\Commands\Database\Seed->run([...])
+ 3 SYSTEMPATH\CLI\Console.php(37): CodeIgniter\CLI\Commands->run('db:seed', [...])
+ 4 ROOTPATH\spark(97): CodeIgniter\CLI\Console->run()
+CRITICAL - 2023-02-20 01:11:22 --> Class 'Faker\Factory' not found
+in APPPATH\Database\Seeds\UsuariosFakerSeeder.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(20): App\Database\Seeds\UsuariosFakerSeeder->run()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 01:11:24 --> Class 'Faker\Factory' not found
+in APPPATH\Database\Seeds\UsuariosFakerSeeder.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(20): App\Database\Seeds\UsuariosFakerSeeder->run()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 01:11:25 --> Class 'Faker\Factory' not found
+in APPPATH\Database\Seeds\UsuariosFakerSeeder.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(20): App\Database\Seeds\UsuariosFakerSeeder->run()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-20 01:31:26 --> Class 'Faker\Factory' not found
+in APPPATH\Database\Seeds\UsuariosFakerSeeder.php on line 18.
+ 1 APPPATH\Controllers\Usuarios.php(20): App\Database\Seeds\UsuariosFakerSeeder->run()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
