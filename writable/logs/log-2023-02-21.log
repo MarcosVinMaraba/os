@@ -1,0 +1,1264 @@
+INFO - 2023-02-21 03:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-21 03:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-21 03:16:08 --> Trying to get property 'imagem' of non-object
+in APPPATH\Controllers\Usuarios.php on line 45.
+ 1 APPPATH\Controllers\Usuarios.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'imagem\' of non-object', 'APPPATH\\Controllers\\Usuarios.php', 45, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->recuperaUsuarios()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 03:17:12 --> Trying to get property 'imagem' of non-object
+in APPPATH\Controllers\Usuarios.php on line 45.
+ 1 APPPATH\Controllers\Usuarios.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'imagem\' of non-object', 'APPPATH\\Controllers\\Usuarios.php', 45, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->recuperaUsuarios()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 03:17:14 --> Trying to get property 'imagem' of non-object
+in APPPATH\Controllers\Usuarios.php on line 45.
+ 1 APPPATH\Controllers\Usuarios.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'imagem\' of non-object', 'APPPATH\\Controllers\\Usuarios.php', 45, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->recuperaUsuarios()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 03:17:49 --> Trying to get property 'imagem' of non-object
+in APPPATH\Controllers\Usuarios.php on line 45.
+ 1 APPPATH\Controllers\Usuarios.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'imagem\' of non-object', 'APPPATH\\Controllers\\Usuarios.php', 45, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->recuperaUsuarios()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 03:17:51 --> Trying to get property 'imagem' of non-object
+in APPPATH\Controllers\Usuarios.php on line 45.
+ 1 APPPATH\Controllers\Usuarios.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'imagem\' of non-object', 'APPPATH\\Controllers\\Usuarios.php', 45, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->recuperaUsuarios()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 03:19:10 --> Trying to get property 'imagem' of non-object
+in APPPATH\Controllers\Usuarios.php on line 46.
+ 1 APPPATH\Controllers\Usuarios.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get property \'imagem\' of non-object', 'APPPATH\\Controllers\\Usuarios.php', 46, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->recuperaUsuarios()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 03:20:11 --> Undefined variable: usuario
+in APPPATH\Controllers\Usuarios.php on line 46.
+ 1 APPPATH\Controllers\Usuarios.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: usuario', 'APPPATH\\Controllers\\Usuarios.php', 46, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->recuperaUsuarios()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 03:20:12 --> Undefined variable: usuario
+in APPPATH\Controllers\Usuarios.php on line 46.
+ 1 APPPATH\Controllers\Usuarios.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: usuario', 'APPPATH\\Controllers\\Usuarios.php', 46, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->recuperaUsuarios()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:16:49 --> syntax error, unexpected 'if' (T_IF)
+in APPPATH\Controllers\Usuarios.php on line 66.
+ 1 SYSTEMPATH\Router\Router.php(506): CodeIgniter\Router\AutoRouter->getRoute('Usuarios/')
+ 2 SYSTEMPATH\Router\Router.php(205): CodeIgniter\Router\Router->autoRoute('Usuarios/')
+ 3 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('Usuarios/')
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:17:34 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Usuarios.php on line 66.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'APPPATH\\Controllers\\Usuarios.php', 66, [...])
+ 2 APPPATH\Controllers\Usuarios.php(66): count(Object(stdClass))
+ 3 APPPATH\Controllers\Usuarios.php(60): App\Controllers\Usuarios->buscaUsuarioOu404(1)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir(1)
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:18:44 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Usuarios.php on line 66.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'APPPATH\\Controllers\\Usuarios.php', 66, [...])
+ 2 APPPATH\Controllers\Usuarios.php(66): count(Object(stdClass))
+ 3 APPPATH\Controllers\Usuarios.php(60): App\Controllers\Usuarios->buscaUsuarioOu404(1)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir(1)
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:18:45 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Usuarios.php on line 66.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'APPPATH\\Controllers\\Usuarios.php', 66, [...])
+ 2 APPPATH\Controllers\Usuarios.php(66): count(Object(stdClass))
+ 3 APPPATH\Controllers\Usuarios.php(60): App\Controllers\Usuarios->buscaUsuarioOu404(1)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir(1)
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:19:38 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Usuarios.php on line 67.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'APPPATH\\Controllers\\Usuarios.php', 67, [...])
+ 2 APPPATH\Controllers\Usuarios.php(67): count(Object(stdClass))
+ 3 APPPATH\Controllers\Usuarios.php(60): App\Controllers\Usuarios->buscaUsuarioOu404(1)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir(1)
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:30:53 --> Arquivo inválido: usurios/exibir.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usurios/exibir.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('usurios/exibir', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(65): view('usurios/exibir', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir(1)
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:31:11 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:31:11 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:31:11 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:31:11 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:31:11 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:31:12 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:31:12 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:31:12 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:49:47 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:49:47 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:49:47 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:49:47 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:49:47 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:49:47 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:49:48 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:49:48 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:50:03 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:50:03 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:50:03 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:50:03 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:50:03 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:50:04 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:50:04 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:50:04 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:50:21 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:51:48 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:51:48 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:51:48 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:51:48 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:51:48 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:51:48 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:51:48 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:51:48 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:53:27 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:53:27 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:53:27 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:53:27 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:53:28 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:53:28 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:53:28 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:53:28 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:19 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:19 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:19 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:19 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:19 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:20 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:20 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:20 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:25 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:25 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:25 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:25 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:25 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:25 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:26 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:54:26 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:56:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:56:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:56:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:56:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:56:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:56:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:56:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:56:57 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:57:20 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:57:20 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:57:20 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:57:21 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:57:21 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:57:21 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:57:21 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:57:21 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:58:01 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:58:02 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:58:02 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:58:02 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:58:02 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:58:02 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:58:02 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:58:03 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:59:44 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:59:44 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:59:44 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:59:44 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:59:44 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:59:44 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:59:45 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 05:59:45 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:03:51 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:03:51 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:03:51 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:03:51 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:03:51 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:03:51 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:03:51 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:03:51 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:06:12 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:06:12 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:06:12 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:06:12 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:06:12 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:06:13 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:06:13 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:06:13 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:07:40 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:07:41 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:07:41 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:07:41 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:07:41 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:07:41 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:07:41 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:07:41 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:09:37 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:09:37 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:09:37 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:09:37 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:09:37 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:09:37 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:09:37 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:09:37 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:00 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:00 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:00 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:00 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:00 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:01 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:01 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:01 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:46 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:46 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:47 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:47 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:47 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:47 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:47 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:10:47 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:15:29 --> Undefined variable: usu
+in APPPATH\Views\usuarios\exibir.php on line 41.
+ 1 APPPATH\Views\usuarios\exibir.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: usu', 'APPPATH\\Views\\usuarios\\exibir.php', 41, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\usuarios\\exibir.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('usuarios/exibir', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(65): view('usuarios/exibir', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir(1)
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:16:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:16:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:16:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:16:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:16:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:16:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:16:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:16:32 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:17:26 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:17:26 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:17:26 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:17:26 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:17:27 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:17:27 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:17:27 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:17:27 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:18:36 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:18:36 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:18:36 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:18:36 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:18:36 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:18:36 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:18:36 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-21 06:18:37 --> Argument 1 passed to App\Controllers\Usuarios::exibir() must be of the type int or null, string given, called in E:\Users\Lenovo\Documents\ordem\system\CodeIgniter.php on line 934
+in APPPATH\Controllers\Usuarios.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')

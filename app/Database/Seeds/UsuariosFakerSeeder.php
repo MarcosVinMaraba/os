@@ -2,6 +2,7 @@
 
 namespace App\Database\Seeds;
 
+use App\Models\UsuariosModel;
 use CodeIgniter\Database\Database as DatabaseDatabase;
 use CodeIgniter\Database\Seeder;
 use Config\Database;
@@ -15,8 +16,8 @@ class UsuariosFakerSeeder extends Seeder
        
     
         $usuarioModel = new \App\Models\UsuariosModel();
-        $faker = Factory::create();
-        $qtdUsuariosCriar = 50;
+        $faker = \Faker\Factory::create();
+        $qtdUsuariosCriar = 20000;
         $usuariosPush = [];
         for ($i = 0; $i < $qtdUsuariosCriar; $i++) {
             # code...
@@ -24,12 +25,15 @@ class UsuariosFakerSeeder extends Seeder
                 'nome' => $faker->unique()->name(),
                 'email' => $faker->unique()->email(),
                 'password_hash' => '123456',
-                'ativo' => true,
+                'ativo' => $faker->numberBetween(0,1),
 
             ]);
+            
         }
-        echo '<pre>';
-        print_r($usuariosPush);
-        exit;
+        $usuarioModel->skipValidation(true)->protect(false)->insertBatch($usuariosPush);
+
+        echo $qtdUsuariosCriar.' criado com sucesso';
+
+        
     }
 }
