@@ -9,8 +9,8 @@ class UsuariosModel extends Model
    
     protected $table            = 'usuarios';
    
-   
-    protected $returnType       = 'object';
+
+    protected $returnType       = 'App\Entities\Usuarios';
     protected $useSoftDeletes   = true;
     
     protected $allowedFields    = [
@@ -25,9 +25,9 @@ class UsuariosModel extends Model
     // Dates
     protected $useTimestamps = true;
   
-    protected $createdField  = 'criado_em';
-    protected $updatedField  = 'atualizado_em';
-    protected $deletedField  = 'deletado_em';
+    protected $createdField  = 'created_at';
+    protected $updatedField  = 'updated_at';
+    protected $deletedField  = 'deleted_at';
 
     // Validation
     protected $validationRules      = [];

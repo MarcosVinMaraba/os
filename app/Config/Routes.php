@@ -3,6 +3,8 @@
 namespace Config;
 
 // Create a new instance of our RouteCollection class.
+use App\Controllers\Usuarios;
+
 $routes = Services::routes();
 
 /*
@@ -32,6 +34,15 @@ $routes->setAutoRoute(true);
 $routes->get('/', 'Home::index');
 
 $routes->post('login','Usuarios::autenticacaoUser',['as' => 'entrar']);
+
+//rotas relacionadas aos usuários
+$routes->get('usuarios','Usuarios::index',['as'=>'usuarios']);
+$routes->group('usuarios', static function ($routes) {
+    $routes->get('exibir/(:num)', 'Usuarios::exibir/$1',['as'=>'exibiUsuarios']);
+    $routes->get('editar/(:num)', 'Usuarios::editar/$1',['as'=>'editarUsuarios']);
+    $routes->get('excluir/(:num)', 'Usuarios::excluir/$1',['as'=>'excluirUsuarios']);
+    $routes->post('atualizar', 'Usuarios::atualizar',['as'=>'atualizarUsuarios']);
+});
 
 /*
  * --------------------------------------------------------------------

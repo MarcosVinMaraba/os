@@ -25,14 +25,14 @@ echo $titulo;
                 <img src='<?php echo site_url('recursos/img/Profile.png') ?>' class="card-img-top" width="60" />
 
             </div>
-            p
+
             <button type="button" class="btn btn-outline-primary btn-sm">Alterar</button>
-            <button type="button" class="btn btn-outline-gray btn-sm">voltar</button>
+           <a href="<?php echo url_to('usuarios')?>"> <button type="button" class="btn btn-outline-gray btn-sm">voltar</button></a>
             <hr class="bg-secondary">
             <h5 class='card-title mt-2'>Nome: <?php echo $usuario->nome ?></h5>
-            <p class='card-text'>Criado: <?php echo $usuario->email ?></p>
-            <p class='card-text'>Criado: <?php echo $usuario->criado_em ?></p>
-            <p class='card-text'>Atualizado: <?php echo $usuario->atualizado_em ?></p>
+            <p class='card-text'>Email: <?php echo $usuario->email ?></p>
+            <p class='card-text'>Criado: <?php echo $usuario->created_at->humanize() ?></p>
+            <p class='card-text'>Atualizado: <?php echo $usuario->updated_at->humanize() ?></p>
 
             <div class="dropdown">
                 <a class="btn btn-danger dropdown-toggle btn-sm" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
@@ -40,8 +40,8 @@ echo $titulo;
                 </a>
 
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="<?php echo site_url('usuarios/editar/' . $usuario->id) ?>">Editar</a>
-                    <a class="dropdown-item" href="<?php echo site_url('usuarios/exluir/' . $usuario->id) ?>">Excluir</a>
+                    <a class="dropdown-item" href="<?php echo url_to('editarUsuarios',$usuario->id) ?>">Editar</a>
+                    <a class="dropdown-item" href="<?php echo url_to('excluirUsuarios', $usuario->id) ?>">Excluir</a>
                     
                 </div>
             </div>

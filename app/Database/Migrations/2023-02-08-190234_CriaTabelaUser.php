@@ -50,17 +50,17 @@ class CriaTabelaUser extends Migration
                 'null'=>true
                 
             ],
-            'criado_em' => [
+            'created_at' => [
                 'type' => 'datetime',
                 'null'=>true,
                 'default'=>null
             ],
-            'atualizado_em' => [
+            'updated_at' => [
                 'type' => 'datetime',
                 'null'=>true,
                 'default'=>null
             ],
-            'deletado_em' => [
+            'deleted_at' => [
                 'type' => 'datetime',
                 'null'=>true,
                 'default'=>null
